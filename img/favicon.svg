@@ -1,14 +1,1 @@
-<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="#a90531" id="canvas_background" height="50" width="50" y="0" x="0"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Junction, sans-serif" font-size="24" id="svg_1" y="33.21875" x="7.682259" stroke-width="0" stroke="#000" fill="#ffffff">ML</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50"><g><title>background</title><rect id="canvas_background" width="50" height="50" x="0" y="0" fill="#a90531"/><g id="canvasGrid" width="100%" height="100%" x="0" y="0" display="none"><rect width="100%" height="100%" x="0" y="0" fill="url(#gridpattern)" stroke-width="0"/></g></g><g><title>Layer 1</title><text id="svg_1" x="7.682" y="33.219" fill="#fff" stroke="#000" stroke-width="0" cursor="move" font-family="Junction, sans-serif" font-size="24" font-weight="bold" text-anchor="start" xml:space="preserve">ML</text></g></svg>
